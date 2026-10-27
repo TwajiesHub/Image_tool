@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "LUCID",
+      "hasCanvas": false,
+      "bodyTextLen": 513,
+      "bodyTextHash": "8cff32eba91a1aa34aa642a9fa4cac5f74680453b46a147738d62b5281299ac0",
+      "bodyTextPrefix": "ANTI-BLUR Lucid Deep anti-blur for soft photos. A Wiener inverse",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "LUCID",
+      "hasCanvas": false,
+      "bodyTextLen": 513,
+      "bodyTextHash": "8cff32eba91a1aa34aa642a9fa4cac5f74680453b46a147738d62b5281299ac0",
+      "bodyTextPrefix": "ANTI-BLUR Lucid Deep anti-blur for soft photos. A Wiener inverse",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
